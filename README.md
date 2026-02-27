@@ -25,6 +25,8 @@
 
 ## Critical Info
 
+![case_rear_label.jpg](photos/case_rear_label.jpg)
+
 ```text
 Serial: 2054339 
 4A
@@ -32,6 +34,8 @@ Serial: 2054339
 AC 120V 60Hz
 ```
 
+The chip year/week codes are from January 2004,
+so it was probably built in early 2004.
 
 ## Reference material:
 
@@ -40,9 +44,25 @@ Copyrighted 2003.
 
 ## Inside
 
-Opening
+Opens with simple Phillips screws.
 
-Boards
+### Boards
+
+#### Mainboard
+
+![mainboard_top.jpg](photos/mainboard_top.jpg)
+
+![mainboard_bottom.jpg](photos/mainboard_bottom.jpg)
+
+![mainboard_bottom_product_list.jpg](photos/mainboard_bottom_product_list.jpg)
+
+#### Power Supply
+
+![power_supply.jpg](photos/power_supply.jpg)
+
+#### Front Controls
+
+![controls_top.jpg](photos/controls_top.jpg)
 
 ### Chips
 
